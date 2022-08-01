@@ -1,0 +1,16 @@
+/home/galmodovar/workspace/csharp/guessinggame/bin/Debug/net5.0/guessinggame
+/home/galmodovar/workspace/csharp/guessinggame/bin/Debug/net5.0/guessinggame.deps.json
+/home/galmodovar/workspace/csharp/guessinggame/bin/Debug/net5.0/guessinggame.runtimeconfig.json
+/home/galmodovar/workspace/csharp/guessinggame/bin/Debug/net5.0/guessinggame.runtimeconfig.dev.json
+/home/galmodovar/workspace/csharp/guessinggame/bin/Debug/net5.0/guessinggame.dll
+/home/galmodovar/workspace/csharp/guessinggame/bin/Debug/net5.0/ref/guessinggame.dll
+/home/galmodovar/workspace/csharp/guessinggame/bin/Debug/net5.0/guessinggame.pdb
+/home/galmodovar/workspace/csharp/guessinggame/obj/Debug/net5.0/guessinggame.csproj.AssemblyReference.cache
+/home/galmodovar/workspace/csharp/guessinggame/obj/Debug/net5.0/guessinggame.GeneratedMSBuildEditorConfig.editorconfig
+/home/galmodovar/workspace/csharp/guessinggame/obj/Debug/net5.0/guessinggame.AssemblyInfoInputs.cache
+/home/galmodovar/workspace/csharp/guessinggame/obj/Debug/net5.0/guessinggame.AssemblyInfo.cs
+/home/galmodovar/workspace/csharp/guessinggame/obj/Debug/net5.0/guessinggame.csproj.CoreCompileInputs.cache
+/home/galmodovar/workspace/csharp/guessinggame/obj/Debug/net5.0/guessinggame.dll
+/home/galmodovar/workspace/csharp/guessinggame/obj/Debug/net5.0/ref/guessinggame.dll
+/home/galmodovar/workspace/csharp/guessinggame/obj/Debug/net5.0/guessinggame.pdb
+/home/galmodovar/workspace/csharp/guessinggame/obj/Debug/net5.0/guessinggame.genruntimeconfig.cache
