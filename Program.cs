@@ -6,10 +6,11 @@ namespace GuessingGame
     {
         static void Main(string[] args)
         {
-            int secretNumber = 42;
+            int secretNumber = new Random().Next(1, 50);
             int guesses = 0;
 
             Console.WriteLine("Give me a number between 1 and 50!:");
+            //Console.WriteLine($"{secretNumber}");
 
             string res = Console.ReadLine();
             int num = int.Parse(res);
