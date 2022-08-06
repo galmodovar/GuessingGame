@@ -23,8 +23,14 @@ namespace GuessingGame
                 break;
             }
             else {
+                string clue = "too high";
+
+                if (num < secretNumber)
+                {
+                    clue = "too low";
+                }
                 guesses++;
-                Console.WriteLine($"You suck. {5 - guesses} guesses left.");
+                Console.WriteLine($"You suck, {clue}. {5 - guesses} guesses left.");
                 res = Console.ReadLine();
                 num = int.Parse(res);
             }
