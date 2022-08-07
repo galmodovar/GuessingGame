@@ -33,6 +33,13 @@ namespace GuessingGame
                         guesses = 4;
                         Console.WriteLine($"You chose {guesses}");
                         break;
+                    case 000:
+                        guesses = 100;
+                        Console.WriteLine("Cheater");
+                        break;
+                    default:
+                    Console.WriteLine("Choose a valid number");
+                    break;
                     
 
 
