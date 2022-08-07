@@ -23,19 +23,19 @@ namespace GuessingGame
                 {
                     case 1:
                         guesses = 8;
-                        Console.WriteLine($"You chose {guesses}");
+                        Console.WriteLine($"You chose level {difficulty}. You have {guesses} guesses.");
                         break;
                     case 2:
                         guesses = 6;
-                        Console.WriteLine($"You chose {guesses}");
+                        Console.WriteLine($"You chose level {difficulty}. You have {guesses} guesses.");
                         break;
                     case 3:
                         guesses = 4;
-                        Console.WriteLine($"You chose {guesses}");
+                        Console.WriteLine($"You chose level {difficulty}. You have {guesses} guesses.");
                         break;
                     case 000:
                         guesses = 100;
-                        Console.WriteLine("Cheater");
+                        Console.WriteLine($"Cheat Code. You have {guesses} guesses.");
                         break;
                     default:
                     Console.WriteLine("Choose a valid number");
@@ -66,7 +66,7 @@ namespace GuessingGame
                     clue = "too low";
                 }
                 guessesLeft++;
-                Console.WriteLine($"You suck, {clue}. Thats {guessesLeft} guess. You have  {guesses - guessesLeft}guesses left.");
+                Console.WriteLine($"You suck, {clue}.You have {guesses - guessesLeft} guesses left.");
                 res = Console.ReadLine();
                 num = int.Parse(res);
             }
